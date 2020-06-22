@@ -7,7 +7,7 @@ namespace Aula22Static
         static void Main(string[] args)
         {
             Console.ForegroundColor = ConsoleColor.Yellow;
-            System.Console.WriteLine("Conversão de Valores em Dolar:");
+            System.Console.WriteLine("Dolar:");
             Console.ResetColor();
 
 
@@ -20,7 +20,7 @@ namespace Aula22Static
             Console.ResetColor();
 
             Console.ForegroundColor = ConsoleColor.Yellow;
-            System.Console.WriteLine("Conversão de Valores em Euro:");
+            System.Console.WriteLine("Euro:");
             Console.ResetColor();
 
             Console.ForegroundColor = ConsoleColor.Blue;
